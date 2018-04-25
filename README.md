@@ -25,4 +25,4 @@ Project for the EDAV course in Spring 2018, Columbia
 
 #### a) Brainstorm and generate hypothesis around the target feature (or feature of importance) - here, the number of accidents, number of injuries and the number of deaths caused by accidents in NYC
 #### b) Verify the veracity of Hypotheses(Effect of weather, Effect of Alcohol, Cause of severe accidents etc.)
-#### a) Conclude
+#### c) Conclude
